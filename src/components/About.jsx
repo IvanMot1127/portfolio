@@ -14,12 +14,12 @@ const About = () => (
         Hey there! I&apos;m
         {' '}
         <a
-          href="https://www.linkedin.com/in/tomHolland/"
+          href="https://www.linkedin.com/in/"
           target="_blank"
           className={style.link}
           rel="noreferrer"
         >
-          Tom Holland (Tom),
+          Ivan Motuliak (Ivan),
         </a>
         {' '}
         a Senior Full-stack Web Developer, with over a decade of experience working with cutting-edge languages and programming techniques. I enjoy taking on challenging projects which require the use of the most advanced languages and development techniques. I am adept at innovative problem solving and developing high-quality code. I excel at web application development, including coordinating ground-up planning, programming, and implementation of the core modules. I am self-disciplined and able to work independently or as part of a cross-functional team.
