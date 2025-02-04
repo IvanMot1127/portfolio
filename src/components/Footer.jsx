@@ -43,7 +43,7 @@ const Footer = () => (
         {' '}
         <span className={style.span}>©</span>
         {' '}
-        Tom Holland
+        Ivan Motuliak
       </a>
     </abbr>
   </motion.section>
