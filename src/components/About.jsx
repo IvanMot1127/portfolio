@@ -28,7 +28,7 @@ const About = () => (
         As a Freelancer, I have worked on a variety of projects for a wide range of clients, assisting them with their business needs by creating innovative and cutting-edge web applications.
         {' '}
         <a
-          href="https://github.com/tomholland665"
+          href="https://github.com/ivanMot1127"
           target="_blank"
           className={style.link}
           rel="noreferrer"

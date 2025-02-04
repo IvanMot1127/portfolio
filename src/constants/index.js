@@ -34,7 +34,7 @@ const social = [
   {
     id: 5,
     name: 'Github',
-    url: 'https://github.com/tomholland665',
+    url: 'https://github.com/ivanMot1127',
     icon: github,
     icon1: github1,
   },
@@ -141,7 +141,7 @@ const projects = [
     tech: ['React', 'Redux', 'Ruby on Rails', 'PostgreSQL'],
     img: carrental,
     carousel: [carrental1, carrental2, carrental3],
-    // source_link: 'https://github.com/tomholland665/Car-Rental-front-end',
+    
     live_link: 'https://car-rental121.netlify.app/',
   },
   {
@@ -151,7 +151,7 @@ const projects = [
     tech: ['Ruby', 'Ruby on Rails', 'PostgreSQL'],
     img: recipeapp,
     carousel: [recipeapp3, recipeapp4, recipeapp6],
-    // source_link: 'https://github.com/tomholland665/Recipe-App',
+
     live_link: 'https://recipe-app121-b8888e20687b.herokuapp.com/',
   },
   {
@@ -161,7 +161,6 @@ const projects = [
     tech: ['HTML5', 'CSS3', 'JavaScript', 'TVmaze API'],
     img: tvshowbox,
     carousel: [tvshow1, tvshow2, tvshow3],
-    source_link: 'https://github.com/Rhaegar121/TVshows_Box',
     live_link: 'https://tvshowbox.netlify.app/',
   },
   {
@@ -171,7 +170,6 @@ const projects = [
     tech: ['React', 'Redux', 'Openweather API'],
     img: metricwebapp,
     carousel: [metricswebapp1, metricswebapp2],
-    // source_link: 'https://github.com/Rhaegar121/Metrics-Webapp',
     live_link: 'https://metrics-webapp121.netlify.app/',
   },
   {
@@ -181,7 +179,6 @@ const projects = [
     tech: ['Ruby', 'Ruby on Rails', 'PostgreSQL'],
     img: trackbudget,
     carousel: [trackbuget1, trackbuget2, trackbuget5],
-    // source_link: 'https://github.com/Rhaegar121/Track-Budget',
     live_link: 'https://track-budget121-70a570d4e3e1.herokuapp.com/',
   },
   {
@@ -191,7 +188,6 @@ const projects = [
     tech: ['React'],
     img: mathmagician,
     carousel: [mathmagician],
-    // source_link: 'https://github.com/Rhaegar121/Math-Magicians',
     live_link: 'https://math-magicians121.netlify.app/',
   },
   {
@@ -201,7 +197,6 @@ const projects = [
     tech: ['HTML5', 'CSS3', 'JavaScript'],
     img: tictactoe,
     carousel: [tictactoe1, tictactoe2, tictactoe3],
-    // source_link: 'https://github.com/Rhaegar121/Tic-Tac-Toe',
     live_link: 'https://tic-tac-toe121.netlify.app/',
   },
   {
@@ -211,7 +206,6 @@ const projects = [
     tech: ['React', 'Redux', 'SpaceX API'],
     img: spacetravelers,
     carousel: [spacetravelers1, spacetravelers2, spacetravelers3],
-    // source_link: 'https://github.com/Rhaegar121/React-Group-Project',
     live_link: 'https://space-travelers-hub121.netlify.app/',
   },
   {
@@ -221,7 +215,6 @@ const projects = [
     tech: ['HTML5', 'CSS3', 'JavaScript'],
     img: guesstheword,
     carousel: [guesstheword1, guesstheword2, guesstheword3],
-    // source_link: 'https://github.com/Rhaegar121/Guess-the-word',
     live_link: 'https://guess-the-word121.netlify.app/',
   },
 ];
